@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juandbc&label=Profile%20views&color=0e75b6&style=flat" alt="juandbc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juandbc" alt="juandbc" /></a> </p>
+- 🔭 I’m currently working on [Colombia Stats](https://github.com/juandbc/colombia-stats)
 
-- 🔭 I’m currently working on **Colombia Stats**
+- 🌱 I’m currently learning more about **Java, Spring boot and AWS Cloud Practitioner**
 
-- 🌱 I’m currently learning **Spring boot, AWS Cloud Practitioner**
-
-- 👯 I’m looking to collaborate on [Pulse music bot](https://github.com/anjoseb121/pulse-music)
+- 👯 I’m looking to collaborate on [Pulse music bot](https://github.com/anjoseb121/pulse-music), [Free for dev](https://github.com/ripienaar/free-for-dev) and [Jhipster](https://github.com/jhipster/jhipster.github.io)
 
 - 💬 Ask me about **Java**
 
