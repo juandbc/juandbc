@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan David Bermudez</h1>
 <h3 align="center">A Java backend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandbc&label=Profile%30views&color=0e75b6&style=flat" alt="juandbc" /> </p>
-
 - 🔭 I’m currently working on [Colombia Stats](https://github.com/juandbc/colombia-stats)
 
 - 🌱 I’m currently learning more about **Java, Spring boot and AWS Cloud Practitioner**
@@ -90,6 +88,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandbc&show_icons=true&locale=en&theme=transparent&layout=compact&hide_border=true" alt="juandbc" /></p>
 
+[![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev)
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandbc&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="juandbc" /></p>
 
