@@ -1,0 +1,241 @@
+cv:
+  name: "Juan David Bermúdez"
+  location: "Barranquilla, CO"
+  email: "juanbermucele@gmail.com"
+  phone: "+573127598435"
+  website: "https://about.me/juandavidbermudez"
+  social_networks:
+    - network: LinkedIn
+      username: "juandbc"
+    - network: GitHub
+      username: juandbc
+  sections:
+    resumen:
+      - "Desarrollador Java backend con experiencia en la creación de soluciones de software desde cero. He trabajado principalmente en proyectos para empresas financieras. Como desarrollador, doy prioridad al feedback del usuario y mantengo un fuerte enfoque en la calidad del producto."
+    educación:
+      - institution: "Universidad Nacional Abierta y a Distancia"
+        area: "Ingeniería de Sistemas"
+        start_date: "2020-10-04"
+        end_date: present
+        location: Medellín
+      - institution: "Universidad Autónoma del Caribe"
+        area: "Ingeniería de Sistemas"
+        start_date: "2013-01-21"
+        end_date: "2018-06-29"
+        location: Barranquilla
+    experiencia:
+      - company: Asodegua (Asociación de Educadores de La Guajira)
+        location: Ríohacha
+        position: "Consultor de software"
+        start_date: "2024-12-28"
+        end_date: "2025-03-31"
+        highlights:
+          - "Análisis de requerimientos"
+          - "Diseño y desarrollo del sistema"
+          - "Implementación y soporte"
+      - company: SMX Services & Consulting
+        location: Remoto
+        position: "Consultor Java"
+        start_date: "2022-05-01"
+        end_date: "2023-08-31"
+        highlights:
+          - "Industrias del proyecto: bancario"
+          - "Participar en el diseño y desarrollo de nuevas funcionalidades"
+          - "Recomendar cambios para mejorar las estructuras de las aplicaciones java"
+      - company: Wolox Colombia (Now Accenture Colombia)
+        location: Remoto
+        position: "Desarrollador de Software"
+        start_date: "2020-10-31"
+        end_date: "2023-09-19"
+        highlights:
+          - "Industrias de los proyectos: banca y comercio minorista"
+          - "Lider técnico Java"
+          - "Diseñar e implementar nuevas funcionalidades"
+          - "Definir estrategias para la resolución de incidencias"
+      - company: PersonalSoft S.A.S Colombia
+        location: Medellín
+        position: "Analista de Ingeniería de Software"
+        start_date: "2019-08-31"
+        end_date: "2020-10-31"
+        highlights:
+          - "Industria del proyecto: bancario"
+          - "Trabajar con desarrolladores de backend y frontend"
+          - "Integración de servicios SOAP y REST API"
+          - "Pruebas unitarias, de integración y de rendimiento"
+      - company: Fintra S.A.
+        location: Barranquilla
+        position: "Junior developer"
+        start_date: "2018-03-31"
+        end_date: "2019-08-31"
+        highlights:
+          - "Industria del proyecto: bancario"
+          - "Análisis de requerimientos"
+          - "Desarrollo e implementación de nuevas funcionalidades para el sistema interno de la compañía"
+      - company: Redsis - Redes y Sistemas Integrados S.A.S
+        location: Barranquilla
+        position: "Practicante"
+        start_date: "2017-04-30"
+        end_date: "2017-10-31"
+        highlights:
+          - "Industria del proyecto: bancario"
+          - "Diseño y desarrollo de un programa informático interno para la gestión de inventarios y proyectos"
+    Conocimientos:
+      - label: Lenguajes
+        details: Java, TypeScript, JavaScript, XML, HTML, CSS
+      - label: Frameworks & librerías Backend
+        details: Spring Boot, Java EE, JAX-RS, JAX-WS, Jhipster
+      - label: Frameworks & librerías Frontend
+        details: Angular, Vue 3, TailwindCSS, Bootstrap
+      - label: Librerías de Pruebas
+        details: JUnit, TestNG, Citrus, Jmeter, Mockito, Cucumber, Serenity BDD, Karate
+      - label: Software y herramientas
+        details: Linux, Kubernetes, Docker, GraalVM, IBM Integration Bus 10, IBM MQ 9, API Connect, Artifactory, Apache Kafka, RabbitMQ
+      - label: Servidores/Servlet Container/Servidor de aplicaciones
+        details: Tomcat, Undertow, Wildfly, TomcatEE, Jetty
+      - label: Bases de datos
+        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB
+      - label: Plataformas
+        details: Heroku, Digital Ocean, Azure, AWS
+      - label: Servicios nube
+        details: App Services, Azure Functions, Azure Service Bus, AKS, AWS API Gateway, AWS S3
+      - label: DevOps
+        details: Azure DevOps, Jenkins, GitLab, GitHub
+      - label: Observabilidad
+        details: New Relic
+      - label: Análisis estático de código
+        details: Qodana, SonarQube, Kiuwan
+    Lenguajes:
+      - Inglés B1
+      - Español nativo
+design:
+  theme: moderncv
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  colors:
+    links: rgb(0, 79, 144)
+    last_updated_date_and_page_numbering: rgb(128, 128, 128)
+  text:
+    font_family: Roboto
+    font_size: 10pt
+    leading: 0.6em
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: true
+  header:
+    name_font_family: Roboto
+    name_font_size: 30pt
+    name_bold: true
+    small_caps_for_name: false
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.5cm
+    connections_font_family: Ubuntu
+    separator_between_connections: ""
+    use_icons_for_connections: true
+    use_urls_as_placeholders_for_connections: false
+    make_connections_links: true
+    alignment: center
+  section_titles:
+    type: with-full-line
+    font_family: Roboto
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 4.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: ◦
+    nested_bullet: "-"
+    top_margin: 0.25cm
+    left_margin: 0.4cm
+    vertical_space_between_highlights: 0.25cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    one_line_entry:
+      template: "**LABEL:** DETAILS"
+    education_entry:
+      main_column_first_row_template: |-
+        **INSTITUTION**
+        *DEGREE in AREA*
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    normal_entry:
+      main_column_first_row_template: "**NAME**"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      main_column_first_row_template: |-
+        **POSITION**
+        *COMPANY*
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+locale:
+  language: es
+  phone_number_format: international
+  abbreviations_for_months:
+    - Enero
+    - Febrero
+    - Marzo
+    - Abril
+    - Mayo
+    - Junio
+    - Julio
+    - Agosto
+    - Septiembre
+    - Octubre
+    - Noviembre
+    - Diciembre
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  month: mes
+  months: meses
+  year: año
+  years: años
+  present: presente
+  to: a
+  page_numbering_template: NAME - Página PAGE_NUMBER de TOTAL_PAGES
+  last_updated_date_template: Última actualización en TODAY
+  date_template: MONTH_ABBREVIATION YEAR
