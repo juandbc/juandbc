@@ -1,0 +1,206 @@
+cv:
+  name: "Juan David Bermúdez"
+  location: "Colombia"
+  email: "juanbermucele@gmail.com"
+  phone: "+573127598435"
+  website: "https://about.me/juandavidbermudez"
+  social_networks:
+    - network: LinkedIn
+      username: "juandbc"
+    - network: GitHub
+      username: juandbc
+  sections:
+    summary:
+      - "Experienced Java backend developer skilled in building software solutions from scratch. I have mainly worked on projects for financial companies. As a developer, I prioritize user feedback and maintain a strong focus on product quality."
+    education:
+      - institution: "National Open and Distance University"
+      # degree: BS
+        area: "Systems Engineering"
+        start_date: "2020-10-04"
+        end_date: present
+        location: Remote
+      - institution: "Autonomous University of the Caribbean"
+        area: "Systems Engineering"
+        start_date: "2013-01-21"
+        end_date: "2018-06-29"
+        location: Barranquilla
+        highlights:
+          - Transfer to Natonal Open and Distance University
+    experiencie:
+      - company: Asodegua (Association of Educators of La Guajira)
+        position: "Software Consultant"
+        location: Ríohacha
+        start_date: "2024-12-28"
+        end_date: "2025-03-31"
+        highlights:
+          - "Requirements analysis"
+          - "System design and development"
+          - "Implementation and support"        
+      - company: SMX Services & Consulting
+        position: "Java consultant"
+        location: Remote
+        start_date: "2022-05-01"
+        end_date: "2023-08-31"
+        highlights:
+          - "Project's industries: banking"
+          - "Participate in design and development of new features"
+          - "Recommend changes to improve java applications structures"
+      - company: Wolox Colombia (Now Accenture Colombia)
+        position: "Software developer"
+        location: Remote
+        start_date: "2020-10-02"
+        end_date: "2023-09-19"
+        highlights:
+          - "Project's indrustries: banking and retail"
+          - "Java Tech lead"
+          - "Design and implement new features"
+          - "Define strategies for incident resolution"
+      - company: PersonalSoft S.A.S Colombia | Panama
+        position: "Software engineering analyst"
+        location: Medellín
+        start_date: "2019-08-31"
+        end_date: "2020-09-30"
+        highlights:
+          - "Project's indrustries: banking"
+          - "Working with backend and frontend developers"
+          - "SOAP and REST API service integration"
+          - "Unit, integration and performance testing"
+      - company: Fintra S.A.
+        position: "Junior developer"
+        location: Barranquilla
+        start_date: "2018-03-31"
+        end_date: "2019-08-31"
+        highlights:
+          - "Project's indrustries: banking"
+          - "Requirements analysis"
+          - "Development and implementation of new functionalities for the company's internal system"
+      - company: Redsis - Redes y Sistemas Integrados S.A.S
+        position: "Trainee"
+        location: Barranquilla
+        start_date: "2017-04-30"
+        end_date: "2017-10-31"
+        highlights:
+          - "Project's indrustries: energetic"
+          - "Design and development of an in-house software for inventory and project management"
+    Skills:
+      - label: Lenguages
+        details: Java, TypeScript, JavaScript, XML, HTML, CSS
+      - label: Backend
+        details: Spring Boot, Spring Cloud, Java EE, JAX-RS, JAX-WS, Jhipster
+      - label: Frontend
+        details: Angular, Vue 3, TailwindCSS, Bootstrap
+      - label: Testing libraries
+        details: JUnit, TestNG, Citrus, Jmeter, Mockito, Cucumber, Serenity BDD, Karate, Insomnia, Postman, Newman, SoapUI
+      - label: Software and tools
+        details: Linux, Kubernetes, Docker, GraalVM, IBM Integration Bus 10, IBM MQ 9, API Connect, Artifactory, Apache Kafka, RabbitMQ
+      - label: Servers
+        details: Tomcat, Undertow, Wildfly, TomcatEE, Jetty
+      - label: Databases
+        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB
+      - label: Platforms
+        details: Heroku, Digital Ocean, Azure, AWS
+      - label: Cloud services
+        details: App Services, Azure Functions, Azure Service Bus, AKS, AWS API Gateway, AWS S3
+      - label: DevOps
+        details: Azure DevOps, Jenkins, GitLab, GitHub
+      - label: Observability
+        details: New Relic
+      - label: Code quality
+        details: Qodana, SonarQube, Kiuwan
+    Lenguajes:
+      - label: English
+        details: "[Reading and listening C1](https://cert.efset.org/iyD2C7), writing and speaking B1"
+      - label: Español
+        details: native
+design:
+  theme: engineeringclassic
+  page:
+    size: us-letter
+    top_margin: 2cm
+    bottom_margin: 2cm
+    left_margin: 2cm
+    right_margin: 2cm
+    show_page_numbering: true
+    show_last_updated_date: true
+  text:
+    font_family: Roboto
+    font_size: 10pt
+    leading: 0.6em
+    date_and_location_column_alignment: right
+  links:
+    underline: true
+    use_external_link_icon: true
+  header:
+    name_font_family: Roboto
+    name_font_size: 30pt
+    name_bold: true
+    photo_width: 3.5cm
+    vertical_space_between_name_and_connections: 0.7cm
+    vertical_space_between_connections_and_first_section: 0.7cm
+    horizontal_space_between_connections: 0.2cm
+    connections_font_family: Roboto
+    use_icons_for_connections: true
+    alignment: center
+  section_titles:
+    type: with-full-line
+    font_family: Roboto
+    font_size: 1.4em
+    bold: true
+    small_caps: false
+    line_thickness: 0.5pt
+    vertical_space_above: 0.5cm
+    vertical_space_below: 0.3cm
+  entries:
+    date_and_location_width: 5.15cm
+    left_and_right_margin: 0.2cm
+    horizontal_space_between_columns: 0.1cm
+    vertical_space_between_entries: 1.2em
+    allow_page_break_in_sections: true
+    allow_page_break_in_entries: true
+    short_second_row: false
+    show_time_spans_in: []
+  highlights:
+    bullet: "◦"
+    left_margin: 0.4cm
+    horizontal_space_between_bullet_and_highlight: 0.5em
+    summary_left_margin: 0cm
+  entry_types:
+    education_entry:
+      main_column_first_row_template: |-
+        **AREA**
+        *in INSTITUTION*
+      degree_column_width: 1cm
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *DATE*
+        *LOCATION*
+    normal_entry:
+      main_column_first_row_template: "**NAME**"
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+    experience_entry:
+      main_column_first_row_template: |-
+        **POSITION**
+        *COMPANY*
+      main_column_second_row_template: |-
+        SUMMARY
+        HIGHLIGHTS
+      date_and_location_column_template: |-
+        *LOCATION*
+        *DATE*
+locale:
+  language: en
+  phone_number_format: international
+  date_template: MONTH_ABBREVIATION YEAR
+rendercv_settings:
+    render_command:
+      pdf_path: Juan_Bermudez_CV.pdf
+      dont_generate_html: true
+      dont_generate_markdown: true
+      dont_generate_png: true
