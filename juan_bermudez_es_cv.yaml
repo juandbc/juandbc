@@ -14,7 +14,7 @@ cv:
       - "Desarrollador Java backend con experiencia en la creación de soluciones de software desde cero. He trabajado principalmente en proyectos para empresas financieras. Como desarrollador, doy prioridad a la retroalimentación del usuario y mantengo un fuerte enfoque en la calidad del producto."
     educación:
       - institution: "Universidad Nacional Abierta y a Distancia"
-        degree: BS
+        # degree: BS
         area: "Ingeniería de Sistemas"
         start_date: "2020-10-04"
         end_date: present
@@ -48,7 +48,7 @@ cv:
       - company: Wolox Colombia (Now Accenture Colombia)
         location: Remoto
         position: "Desarrollador de Software"
-        start_date: "2020-10-31"
+        start_date: "2020-10-02"
         end_date: "2023-09-19"
         highlights:
           - "Industrias de los proyectos: banca y comercio minorista"
@@ -59,7 +59,7 @@ cv:
         location: Medellín
         position: "Analista de Ingeniería de Software"
         start_date: "2019-08-31"
-        end_date: "2020-10-31"
+        end_date: "2020-09-30"
         highlights:
           - "Industria del proyecto: bancario"
           - "Trabajar con desarrolladores de backend y frontend"
@@ -234,7 +234,7 @@ locale:
   date_template: MONTH_ABBREVIATION YEAR
 rendercv_settings:
     render_command:
-      pdf_path: NAME_es_CV.pdf
+      pdf_path: Juan_Bermudez_es_CV.pdf
       dont_generate_html: true
       dont_generate_markdown: true
       dont_generate_png: true
