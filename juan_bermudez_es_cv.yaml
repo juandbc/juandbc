@@ -27,67 +27,74 @@ cv:
         highlights:
           - Transferencia a UNAD
     experiencia:
-      - company: Asodegua (Asociación de Educadores de La Guajira)
-        location: Ríohacha
+      - company: "Asodegua (Asociación de Educadores de La Guajira)"
+        location: "Ríohacha"
         position: "Consultor de software"
         start_date: "2024-12-28"
         end_date: "2025-03-31"
         highlights:
-          - "Análisis de requerimientos"
-          - "Diseño y desarrollo del sistema"
-          - "Implementación y soporte"
+          - "Lideré el análisis de requerimientos para el desarrollo de un sistema interno de gestión destinado a la asociación."
+          - "Diseñé una arquitectura monolítica con navegación básica, compuesta por 4 módulos web con operaciones CRUD y un módulo adicional para la edición dinámica de plantillas de certificados en PDF."
+          - "Implementé el sistema utilizando la plataforma JHipster, con Java 21, Spring Boot 3.4, Vue 3 para el frontend y PostgreSQL como base de datos relacional."
       - company: SMX Services & Consulting
         location: Remoto
-        position: "Consultor Java"
+        position: "Consultor Java Independiente"
         start_date: "2022-05-01"
         end_date: "2023-08-31"
         highlights:
-          - "Industrias del proyecto: bancario"
-          - "Participar en el diseño y desarrollo de nuevas funcionalidades"
-          - "Recomendar cambios para mejorar las estructuras de las aplicaciones java"
-      - company: Wolox Colombia (Now Accenture Colombia)
+          - "Colaboré en el desarrollo y mantenimiento de nuevas funcionalidades para microservicios de autenticación y autorización basados en OIDC, desarrollados con Java 8 y Spring Boot 2.x."
+          - "Implementé la conexión de servicios con AWS DynamoDB y su exposición mediante AWS API Gateway."
+          - "Participé en el desarrollo del frontend de autenticación utilizando Angular."
+          - "Propuse y colaboré en la implementación de mejoras estructurales en la arquitectura de microservicios."
+      - company: Wolox Colombia (Ahora Accenture Colombia)
         location: Remoto
         position: "Desarrollador de Software"
         start_date: "2020-10-02"
         end_date: "2023-09-19"
         highlights:
-          - "Industrias de los proyectos: banca y comercio minorista"
-          - "Lider técnico Java"
-          - "Diseñar e implementar nuevas funcionalidades"
-          - "Definir estrategias para la resolución de incidencias"
+          - "Colaboré en la migración de un monolito bancario desarrollado en COBOL hacia una arquitectura de microservicios con APIs REST desarrolladas en Java 8 y Spring Boot 2.2, utilizando WebFlux para conexiones reactivas entre servicios y consumiendo datos expuestos desde el middleware Mulesoft. Además, implementé la integración con la plataforma privada de trazabilidad SEEMaS."
+          - "Desempeñé el rol de Líder Técnico del proyecto durante aproximadamente 5 meses, liderando la implementación de nuevos requerimientos y apoyando la definición de estrategias para la resolución de incidencias del cliente."
+          - "Participé en el desarrollo desde cero de una pasarela de pagos basada en una arquitectura orientada a eventos (EDA), utilizando Apache Kafka y microservicios con Java 17, Spring Boot 3 y su stack reactivo (WebFlux)."
+          - "Colaboré en la estandarización de estilos de código e indentación en los proyectos, además de capacitar a colaboradores con rol junior."
+          - "Contribuí al desarrollo de múltiples BFF (Backend for Frontend) contenerizados con Docker para un proyecto del sector bancario."          
       - company: PersonalSoft S.A.S Colombia
         location: Medellín
         position: "Analista de Ingeniería de Software"
         start_date: "2019-08-31"
         end_date: "2020-09-30"
         highlights:
-          - "Industria del proyecto: bancario"
-          - "Trabajar con desarrolladores de backend y frontend"
-          - "Integración de servicios SOAP y REST API"
-          - "Pruebas unitarias, de integración y de rendimiento"
+          - "Colaboré estrechamente con desarrolladores backend y frontend en la definición de contratos entre servicios."
+          - "Desarrollé la integración de servicios SOAP en IBM Integration Bus utilizando ESQL y conexiones a IBM MQ. Además, implementé la integración de APIs REST en IBM API Connect con JavaScript y especificaciones en YAML."
+          - "Aseguré la calidad de las integraciones mediante pruebas unitarias, de integración, extremo a extremo (E2E) y de rendimiento."
       - company: Fintra S.A.
         location: Barranquilla
         position: "Junior developer"
         start_date: "2018-03-31"
         end_date: "2019-08-31"
         highlights:
-          - "Industria del proyecto: bancario"
-          - "Análisis de requerimientos"
-          - "Desarrollo e implementación de nuevas funcionalidades para el sistema interno de la compañía"
+          - "Colaboré en el análisis de requerimientos para la incorporación de nuevos módulos e interfaces en el sistema de gestión y análisis crediticio."
+          - "Implementé la lógica de negocio en el backend mediante procedimientos almacenados en PostgreSQL, y desarrollé interfaces aplicando los patrones MVC y DAO con JDBC."
+          - "Promoví y ejecuté la actualización del sistema de Java 6 a Java 8, mejorando la compatibilidad y el rendimiento general."
+          - "Implementé un servidor GitLab on-premise para el control de versiones, reemplazando la solución anterior basada en SVN."
+          - "Colaboré en el desarrollo de la primera API REST de la compañía para su sitio web, utilizando Java y JAX-RS."
       - company: Redsis - Redes y Sistemas Integrados S.A.S
         location: Barranquilla
         position: "Practicante"
         start_date: "2017-04-30"
         end_date: "2017-10-31"
         highlights:
-          - "Industria del proyecto: bancario"
-          - "Diseño y desarrollo de un programa informático interno para la gestión de inventarios y proyectos"
+          - "Realicé el análisis de requerimientos para un sistema web de gestión de proyectos e inventario durante el periodo de prácticas profesionales."
+          - "Diseñé la arquitectura general del sistema, incluyendo el modelo de base de datos optimizado para SQL Server."
+          - "Desarrollé el backend en Java 8 y el frontend utilizando HTML, CSS y JavaScript con jQuery, sin el uso de frameworks adicionales ni SSR"
+          - "Desplegué la aplicación en un servidor Apache Tomcat, asegurando su correcta configuración y funcionamiento."
     Conocimientos:
+      - label: Metodologías y arquitecturas
+        details: Scrum, Ágil, TDD, BDD, DDD, Microservicios, SOA, EDA, 
       - label: Lenguajes
-        details: Java, TypeScript, JavaScript, XML, HTML, CSS
-      - label: Backend
-        details: Spring Boot, Spring Cloud, Java EE, JAX-RS, JAX-WS, Jhipster
-      - label: Frontend
+        details: Java (8-21), SQL, TypeScript, JavaScript, XML, HTML, CSS
+      - label: Framework Backend
+        details: Spring Boot, Spring WebFlux, Spring Data, Spring Security, Spring Cloud(Bus, Stream, Circuit Breaker, Sleuth, Function, OpenFeign), Micrometer Tracing, Spring REST Docs, Java EE, JAX-RS, JAX-WS, Jhipster
+      - label: Framework Frontend
         details: Angular, Vue 3, TailwindCSS, Bootstrap
       - label: Librerías de Pruebas
         details: JUnit, TestNG, Citrus, Jmeter, Mockito, Cucumber, Serenity BDD, Karate, Insomnia, Postman, Newman, SoapUI
@@ -233,8 +240,23 @@ locale:
   last_updated_date_template: Última actualización en TODAY
   date_template: MONTH_ABBREVIATION YEAR
 rendercv_settings:
+    # bold_keywords:
+    #   - Vue
+    #   - Angular
+    #   - Java
+    #   - Spring Boot
+    #   - WebFlux
+    #   - Apache
+    #   - PostgreSQL
+    #   - Tomcat
+    #   - Kafka
+    #   - AWS
+    #   - DynamoDB
+    #   - API Gateway
+    #   - Docker
+    #   - IBM Integration Bus
     render_command:
       pdf_path: Juan_Bermudez_es_CV.pdf
-      dont_generate_html: true
-      dont_generate_markdown: true
-      dont_generate_png: true
+      # dont_generate_html: true
+      # dont_generate_markdown: true
+      # dont_generate_png: true
