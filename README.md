@@ -14,7 +14,7 @@
 <h4 align="left">Connect with me:</h4>
 <a href="https://linkedin.com/in/juandbc" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="juandbc" height="30" width="30" /></a>
 
-<h3 align="left">Languages</h3>
+<h4 align="left">Languages</h4>
 <table>
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="30" height="30"/></span></td>
@@ -26,7 +26,7 @@
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="css3" width="30" height="30"/></span></td>
 </tr>
 </table>
-<h3> Frameworks & libraries:</h3>
+<h4> Frameworks & libraries:</h4>
 <table>
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/></span></td>
@@ -42,7 +42,7 @@
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30"/></span></td>
 </tr>
 </table>
-<h3 align="left">Databases:</h3>
+<h4 align="left">Databases:</h4>
 <table>
     <tr>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/></span></td>
@@ -51,7 +51,7 @@
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30"/></span></td>
     </tr>
 </table>
-<h3 align="left">Tools:</h3>
+<h4 align="left">Tools:</h4>
 <table>
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="30" height="30"/></span></td>
@@ -72,7 +72,7 @@
 </tr>
 </table>
 
-<h3 align="left">Platforms:</h3>
+<h4 align="left">Platforms:</h4>
 <table>
 <tr>
     <td><span><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="newrelic" width="30" height="30"/></span></td>
@@ -86,11 +86,13 @@
 </tr>
 </table>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandbc&show_icons=true&locale=en&theme=transparent&layout=compact&hide_border=true" alt="juandbc" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandbc&show_icons=true&locale=en&theme=transparent&layout=compact&hide_border=true" alt="juandbc" />
+    <img src="https://roadmap.sh/card/wide/68939c70614598977ebd6ec7?variant=dark&roadmaps=backend%2Cdatastructures-and-algorithms%2Cjava%2Cspring-boot" alt="Roadmap.sh"/>
+</p>
 
-[![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev)
-<!--
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juandbc&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="juandbc" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=juandbc&theme=transparent&hide_border=true" alt="juandbc" /></p>
--->
+<!-- [![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev) -->
+<p>
+    <a href="https://www.codewars.com/users/juandev"><img alt="Codewars" src="https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true""/></a>
+<img style="display:inline;" src="https://wakatime.com/share/@juandbc/bd7d6468-9e4b-48c9-8761-c8762afd78dc.svg" alt="Wakatime" width="350" height="350" />
+</p>
