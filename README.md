@@ -88,11 +88,8 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandbc&show_icons=true&locale=en&theme=transparent&layout=compact&hide_border=true" alt="juandbc" />
-    <img src="https://roadmap.sh/card/wide/68939c70614598977ebd6ec7?variant=dark&roadmaps=backend%2Cdatastructures-and-algorithms%2Cjava%2Cspring-boot" alt="Roadmap.sh"/>
+    <img style="display:inline;" src="https://wakatime.com/share/@juandbc/bd7d6468-9e4b-48c9-8761-c8762afd78dc.svg" alt="Wakatime" width="350" height="350" />
 </p>
 
-<!-- [![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev) -->
-<p>
-    <a href="https://www.codewars.com/users/juandev"><img alt="Codewars" src="https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true""/></a>
-<img style="display:inline;" src="https://wakatime.com/share/@juandbc/bd7d6468-9e4b-48c9-8761-c8762afd78dc.svg" alt="Wakatime" width="350" height="350" />
-</p>
+[![roadmap.sh](https://roadmap.sh/card/wide/68939c70614598977ebd6ec7?variant=dark)](https://roadmap.sh)
+[![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev)
