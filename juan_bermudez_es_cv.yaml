@@ -18,7 +18,7 @@ cv:
         area: "Ingeniería de Sistemas"
         start_date: "2020-10-04"
         end_date: present
-        location: Medellín
+        location: Virtual
       - institution: "Universidad Autónoma del Caribe"
         area: "Ingeniería de Sistemas"
         start_date: "2013-01-21"
@@ -56,7 +56,7 @@ cv:
           - "Desempeñé el rol de Líder Técnico del proyecto durante aproximadamente 5 meses, liderando la implementación de nuevos requerimientos y apoyando la definición de estrategias para la resolución de incidencias del cliente."
           - "Participé en el desarrollo desde cero de una pasarela de pagos basada en una arquitectura orientada a eventos (EDA), utilizando Apache Kafka y microservicios con Java 17, Spring Boot 3 y su stack reactivo (WebFlux)."
           - "Colaboré en la estandarización de estilos de código e indentación en los proyectos, además de capacitar a colaboradores con rol junior."
-          - "Contribuí al desarrollo de múltiples BFF (Backend for Frontend) contenerizados con Docker para un proyecto del sector bancario."          
+          - "Contribuí al desarrollo de múltiples BFF (Backend for Frontend) contenerizados con Docker para un proyecto del sector bancario."
       - company: PersonalSoft S.A.S Colombia
         location: Medellín
         position: "Analista de Ingeniería de Software"
@@ -89,7 +89,7 @@ cv:
           - "Desplegué la aplicación en un servidor Apache Tomcat, asegurando su correcta configuración y funcionamiento."
     Conocimientos:
       - label: Metodologías y arquitecturas
-        details: Scrum, Ágil, TDD, BDD, DDD, Microservicios, SOA, EDA, 
+        details: Scrum, Ágil, TDD, BDD, DDD, Microservicios, SOA, EDA
       - label: Lenguajes
         details: Java (8-21), SQL, TypeScript, JavaScript, XML, HTML, CSS
       - label: Framework Backend
@@ -103,7 +103,7 @@ cv:
       - label: Servidores
         details: Tomcat, Undertow, Wildfly, TomcatEE, Jetty
       - label: Bases de datos
-        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB
+        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, CosmosDB
       - label: Plataformas
         details: Heroku, Digital Ocean, Azure, AWS
       - label: Servicios nube
@@ -205,6 +205,19 @@ locale:
   language: es
   phone_number_format: international
   abbreviations_for_months:
+    - Ene
+    - Feb
+    - Mar
+    - Abr
+    - May
+    - Jun
+    - Jul
+    - Ago
+    - Sep
+    - Oct
+    - Nov
+    - Dic
+  full_names_of_months:
     - Enero
     - Febrero
     - Marzo
@@ -217,19 +230,6 @@ locale:
     - Octubre
     - Noviembre
     - Diciembre
-  full_names_of_months:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
   month: mes
   months: meses
   year: año
@@ -240,23 +240,23 @@ locale:
   last_updated_date_template: Última actualización en TODAY
   date_template: MONTH_ABBREVIATION YEAR
 rendercv_settings:
-    # bold_keywords:
-    #   - Vue
-    #   - Angular
-    #   - Java
-    #   - Spring Boot
-    #   - WebFlux
-    #   - Apache
-    #   - PostgreSQL
-    #   - Tomcat
-    #   - Kafka
-    #   - AWS
-    #   - DynamoDB
-    #   - API Gateway
-    #   - Docker
-    #   - IBM Integration Bus
-    render_command:
-      pdf_path: Juan_Bermudez_es_CV.pdf
-      # dont_generate_html: true
-      # dont_generate_markdown: true
-      # dont_generate_png: true
+  # bold_keywords:
+  #   - Vue
+  #   - Angular
+  #   - Java
+  #   - Spring Boot
+  #   - WebFlux
+  #   - Apache
+  #   - PostgreSQL
+  #   - Tomcat
+  #   - Kafka
+  #   - AWS
+  #   - DynamoDB
+  #   - API Gateway
+  #   - Docker
+  #   - IBM Integration Bus
+  render_command:
+    pdf_path: Juan_Bermudez_es_CV.pdf
+    dont_generate_html: true
+    dont_generate_markdown: true
+    dont_generate_png: true
