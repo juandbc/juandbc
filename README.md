@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Colombia Stats](https://github.com/juandbc/colombia-stats)
 
-- 🌱 I’m currently learning more about **Java, Spring boot and AWS Cloud Practitioner**
+- 🌱 I’m currently learning more about **Java, Elixir, Spring boot and AWS Cloud Practitioner**
 
 - 👯 I’m looking to collaborate on [Pulse music bot](https://github.com/anjoseb121/pulse-music), [Free for dev](https://github.com/ripienaar/free-for-dev) and [Jhipster](https://github.com/jhipster/jhipster.github.io)
 
@@ -89,7 +89,7 @@
 
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandbc&show_icons=true&locale=en&theme=transparent&layout=compact&hide_border=true" alt="Juandbc" />
-    <img style="display:inline;" src="https://wakatime.com/share/@juandbc/bd7d6468-9e4b-48c9-8761-c8762afd78dc.svg" alt="Wakatime" width="350" height="350" />
+    <!-- <img style="display:inline;" src="https://wakatime.com/share/@juandbc/bd7d6468-9e4b-48c9-8761-c8762afd78dc.svg" alt="Wakatime" width="350" height="350" /> -->
 </p>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68939c70614598977ebd6ec7?variant=dark&roadmaps=backend%2Cjava%2Cspring-boot%2Cdatastructures-and-algorithms)](https://roadmap.sh)
