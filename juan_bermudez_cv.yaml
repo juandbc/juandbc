@@ -3,7 +3,6 @@ cv:
   location: "Colombia"
   email: "juanbermucele@gmail.com"
   phone: "+573127598435"
-  website: "https://about.me/juandavidbermudez"
   social_networks:
     - network: LinkedIn
       username: "juandbc"
@@ -14,11 +13,11 @@ cv:
       - "Experienced Java backend developer skilled in building software solutions from scratch. I have mainly worked on projects for financial companies. As a developer, I prioritize user feedback and maintain a strong focus on product quality."
     education:
       - institution: "National Open and Distance University"
-      # degree: BS
+        # degree: BS
         area: "Systems Engineering"
         start_date: "2020-10-04"
         end_date: present
-        location: Remote
+        location: Virtual
       - institution: "Autonomous University of the Caribbean"
         area: "Systems Engineering"
         start_date: "2013-01-21"
@@ -33,61 +32,68 @@ cv:
         start_date: "2024-12-28"
         end_date: "2025-03-31"
         highlights:
-          - "Requirements analysis"
-          - "System design and development"
-          - "Implementation and support"        
+          - "I led the requirements analysis for the development of an internal management system for the association."
+          - "I designed a monolithic architecture with basic navigation, consisting of 4 web modules with CRUD operations and an additional module for dynamic PDF certificate template editing."
+          - "I implemented the system using the JHipster platform, with Java 21, Spring Boot 3.4, Vue 3 for the frontend, and PostgreSQL as the relational database."
       - company: SMX Services & Consulting
         position: "Java consultant"
         location: Remote
         start_date: "2022-05-01"
         end_date: "2023-08-31"
         highlights:
-          - "Project's industries: banking"
-          - "Participate in design and development of new features"
-          - "Recommend changes to improve java applications structures"
+          - "I collaborated in the development and maintenance of new authentication and authorization microservice features based on OIDC, developed with Java 8 and Spring Boot 2.x."
+          - "I implemented service integration with AWS DynamoDB and exposed functionality through AWS API Gateway."
+          - "I participated in the development of the authentication frontend using Angular."
+          - "I proposed and collaborated in implementing structural improvements to the microservices architecture."
       - company: Wolox Colombia (Now Accenture Colombia)
         position: "Software developer"
         location: Remote
         start_date: "2020-10-02"
         end_date: "2023-09-19"
         highlights:
-          - "Project's indrustries: banking and retail"
-          - "Java Tech lead"
-          - "Design and implement new features"
-          - "Define strategies for incident resolution"
+          - "I collaborated in migrating a banking monolith developed in COBOL to a microservices architecture with REST APIs developed in Java 8 and Spring Boot 2.2, using WebFlux for reactive communication between services and consuming data exposed through Mulesoft middleware. Additionally, I implemented integration with the private traceability platform SEEMaS."
+          - "I served as Technical Lead on the project for approximately 5 months, leading the implementation of new requirements and supporting the definition of strategies for resolving client incidents."
+          - "I participated in the end-to-end development of a payment gateway based on an event-driven architecture (EDA), using Apache Kafka and microservices with Java 17, Spring Boot 3, and its reactive stack (WebFlux)."
+          - "I collaborated in standardizing code style and indentation across projects, as well as training junior team members."
+          - "I contributed to the development of multiple BFFs (Backend for Frontend) containerized with Docker for a banking sector project."
       - company: PersonalSoft S.A.S Colombia | Panama
         position: "Software engineering analyst"
         location: Medellín
         start_date: "2019-08-31"
         end_date: "2020-09-30"
         highlights:
-          - "Project's indrustries: banking"
-          - "Working with backend and frontend developers"
-          - "SOAP and REST API service integration"
-          - "Unit, integration and performance testing"
+          - "I collaborated closely with backend and frontend developers to define service contracts."
+          - "I developed SOAP service integrations in IBM Integration Bus using ESQL and IBM MQ, and additionally implemented REST API integrations in IBM API Connect using JavaScript and YAML specifications."
+          - "I ensured integration quality through unit, integration, end-to-end (E2E), and performance testing."
       - company: Fintra S.A.
         position: "Junior developer"
         location: Barranquilla
         start_date: "2018-03-31"
         end_date: "2019-08-31"
         highlights:
-          - "Project's indrustries: banking"
-          - "Requirements analysis"
-          - "Development and implementation of new functionalities for the company's internal system"
+          - "I collaborated in requirements analysis to incorporate new modules and interfaces into the credit management and analysis system."
+          - "I implemented business logic in the backend through PostgreSQL stored procedures, and developed interfaces using MVC and DAO patterns with JDBC."
+          - "I promoted and carried out the system upgrade from Java 6 to Java 8, improving compatibility and overall performance."
+          - "I implemented an on-premise GitLab server for version control, replacing the previous SVN-based solution."
+          - "I collaborated in developing the company's first REST API for its website, using Java and JAX-RS."
       - company: Redsis - Redes y Sistemas Integrados S.A.S
         position: "Trainee"
         location: Barranquilla
         start_date: "2017-04-30"
         end_date: "2017-10-31"
         highlights:
-          - "Project's indrustries: energetic"
-          - "Design and development of an in-house software for inventory and project management"
+          - "I performed requirements analysis for a web-based project and inventory management system during my professional internship."
+          - "I designed the overall system architecture, including the database model optimized for SQL Server."
+          - "I developed the backend in Java 8 and the frontend using HTML, CSS, and JavaScript with jQuery, without additional frameworks or server-side rendering."
+          - "I deployed the application on an Apache Tomcat server, ensuring proper configuration and stable operation."
     Skills:
-      - label: Lenguages
-        details: Java, TypeScript, JavaScript, XML, HTML, CSS
-      - label: Backend
-        details: Spring Boot, Spring Cloud, Java EE, JAX-RS, JAX-WS, Jhipster
-      - label: Frontend
+      - label: Methodologies & Architectures
+        details: Scrum, Ágil, TDD, BDD, DDD, Microservices, SOA, EDA
+      - label: Languages
+        details: Java (8-21), SQL, TypeScript, JavaScript, XML, HTML, CSS
+      - label: Framework Backend
+        details: Spring Boot, Spring WebFlux, Spring Data, Spring Security, Spring Cloud(Bus, Stream, Circuit Breaker, Sleuth, Function, OpenFeign), Micrometer Tracing, Spring REST Docs, Java EE, JAX-RS, JAX-WS, Jhipster
+      - label: Framework Frontend
         details: Angular, Vue 3, TailwindCSS, Bootstrap
       - label: Testing libraries
         details: JUnit, TestNG, Citrus, Jmeter, Mockito, Cucumber, Serenity BDD, Karate, Insomnia, Postman, Newman, SoapUI
@@ -96,7 +102,7 @@ cv:
       - label: Servers
         details: Tomcat, Undertow, Wildfly, TomcatEE, Jetty
       - label: Databases
-        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB
+        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, CosmosDB
       - label: Platforms
         details: Heroku, Digital Ocean, Azure, AWS
       - label: Cloud services
@@ -199,8 +205,8 @@ locale:
   phone_number_format: international
   date_template: MONTH_ABBREVIATION YEAR
 rendercv_settings:
-    render_command:
-      pdf_path: Juan_Bermudez_CV.pdf
-      dont_generate_html: true
-      dont_generate_markdown: true
-      dont_generate_png: true
+  render_command:
+    pdf_path: Juan_Bermudez_CV.pdf
+    dont_generate_html: true
+    dont_generate_markdown: true
+    dont_generate_png: true

@@ -1,20 +1,17 @@
-<h1 align="center">Hi 👋, I'm Juan David Bermudez</h1>
-<h3 align="center">A Java backend developer from Colombia</h3>
+<h1 align="center">Hi, I'm Juan David Bermudez</h1>
+<h2 align="center">A Java backend developer from Colombia</h2>
 
 - 🔭 I’m currently working on [Colombia Stats](https://github.com/juandbc/colombia-stats)
 
-- 🌱 I’m currently learning more about **Java, Elixir, Spring boot and AWS Cloud Practitioner**
+- 🌱 I’m currently learning **Elixir and Quarkus** and always learning more about **Java and Spring boot**
 
-- 👯 I’m looking to collaborate on [Pulse music bot](https://github.com/anjoseb121/pulse-music), [Free for dev](https://github.com/ripienaar/free-for-dev) and [Jhipster](https://github.com/jhipster/jhipster.github.io)
+- 👯 I’m collaborating on [Free for dev](https://github.com/ripienaar/free-for-dev)
 
-- 💬 Ask me about **Java**
-
-<!--- 📫 How to reach me **juanbermucele@gmail.com**-->
 
 <h4 align="left">Connect with me:</h4>
 <a href="https://linkedin.com/in/juandbc" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="juandbc" height="30" width="30" /></a>
 
-<h4 align="left">Languages</h4>
+<h3 align="left">Languages</h3>
 <table>
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/></span></td>
@@ -27,7 +24,7 @@
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30"/></span></td>
 </tr>
 </table>
-<h4> Frameworks & libraries:</h4>
+<h3> Frameworks & libraries:</h3>
 <table>
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="30" height="30"/></span></td>
@@ -43,16 +40,19 @@
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/></span></td>
 </tr>
 </table>
-<h4 align="left">Databases:</h4>
+<h3 align="left">Databases:</h3>
 <table>
     <tr>
+        <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/></span></td>
+        <td><span><img src="https://github.com/valkey-io/valkey-io.github.io/blob/main/static/img/Valkey-logo.svg" alt="valkey" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="30" height="30"/></span></td>
+        <td><span><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ferretdb.svg" alt="ferretdb" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="30" height="30"/></span></td>
     </tr>
 </table>
-<h4 align="left">Tools:</h4>
+<h3 align="left">Tools:</h3>
 <table>
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Intellij" width="30" height="30"/></span></td>
@@ -73,7 +73,7 @@
 </tr>
 </table>
 
-<h4 align="left">Platforms:</h4>
+<h3 align="left">Platforms:</h3>
 <table>
 <tr>
     <td><span><img src="https://www.vectorlogo.zone/logos/newrelic/newrelic-icon.svg" alt="Newrelic" width="30" height="30"/></span></td>
