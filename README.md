@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Juan David Bermudez</h1>
 <h2 align="center">A Java backend developer from Colombia</h2>
 
-- 🔭 I’m currently working on [Colombia Stats](https://github.com/juandbc/colombia-stats)
+- 🔭 I’m currently working on [FlacRadar](https://github.com/juandbc/flacRadar)
 
-- 🌱 I’m currently learning **Elixir and Quarkus** and always learning more about **Java and Spring boot**
+- 🌱 I’m currently learning **Vue and Quarkus** and always learning more about **Java and Spring boot**
 
 - 👯 I’m collaborating on [Free for dev](https://github.com/ripienaar/free-for-dev)
 
