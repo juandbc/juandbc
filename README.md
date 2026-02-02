@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Juan David Bermudez</h1>
 <h2 align="center">A Java backend developer from Colombia</h2>
 
-- 🔭 I’m currently working on [FlacRadar](https://github.com/juandbc/flacRadar)
+- 🔭 I’m currently working on [Flacarr](https://github.com/juandbc/Flacarr)
 
 - 🌱 I’m currently learning **Vue and Quarkus** and always learning more about **Java and Spring boot**
 
-- 👯 I’m collaborating on [Free for dev](https://github.com/ripienaar/free-for-dev)
+- 👯 I’m collaborating on [Free for dev](https://github.com/ripienaar/free-for-dev),[MediaManager](https://github.com/maxdorninger/MediaManager/)
 
 
 <h4 align="left">Connect with me:</h4>
@@ -16,7 +16,6 @@
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/></span></td>
-    <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="Elixir" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="30" height="30"/></span></td>
@@ -87,10 +86,9 @@
 </tr>
 </table>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juandbc&show_icons=true&locale=en&theme=transparent&layout=compact&hide_border=true" alt="Juandbc" />
-    <!-- <img style="display:inline;" src="https://wakatime.com/share/@juandbc/bd7d6468-9e4b-48c9-8761-c8762afd78dc.svg" alt="Wakatime" width="350" height="350" /> -->
-</p>
+<!--<p>
+     <img style="display:inline;" src="https://wakatime.com/share/@juandbc/bd7d6468-9e4b-48c9-8761-c8762afd78dc.svg" alt="Wakatime" width="350" height="350" /> 
+</p>-->
 
 [![roadmap.sh](https://roadmap.sh/card/wide/68939c70614598977ebd6ec7?variant=dark&roadmaps=backend%2Cjava%2Cspring-boot%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 [![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev)
