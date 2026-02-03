@@ -32,6 +32,7 @@
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karatelabs/karatelabs-original.svg" alt="Karatelabs" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="Openapi" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="Junit" width="30" height="30"/></span></td>
+    <td><span><img src="https://avatars.githubusercontent.com/u/9455201?s=200&v=4" alt="Serenity" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vuejs" width="30" height="30"/></span></td>
