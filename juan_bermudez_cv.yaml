@@ -26,6 +26,21 @@ cv:
         highlights:
           - Transfer to Natonal Open and Distance University
     experiencie:
+      - company: "Freelance"
+        location: "Remote"
+        position: "Analista QA"
+        start_date: "2025-07-11"
+        highlights:
+          - "Develop automated tests with Serenity BDD applying the Screenplay Pattern."
+      - company: "Remoti"
+        location: "Remote"
+        position: "Desarrollador Backend"
+        start_date: "2025-10-01"
+        end_date: "2025-11-28"
+        highlights:
+          - "I supported the development of microservices using Spring Boot and Java 17."
+          - "I performed maintenance and optimization functions for the services deployed on AWS."
+          - "I migrated a Redis database to Valkey with AWS CloudFormation."
       - company: Asodegua (Association of Educators of La Guajira)
         position: "Software Consultant"
         location: Ríohacha
@@ -91,9 +106,9 @@ cv:
         details: Scrum, Ágil, TDD, BDD, DDD, Microservices, SOA, EDA
       - label: Languages
         details: Java (8-21), SQL, TypeScript, JavaScript, XML, HTML, CSS
-      - label: Framework Backend
+      - label: Backend Frameworks
         details: Spring Boot, Spring WebFlux, Spring Data, Spring Security, Spring Cloud(Bus, Stream, Circuit Breaker, Sleuth, Function, OpenFeign), Micrometer Tracing, Spring REST Docs, Java EE, JAX-RS, JAX-WS, Jhipster
-      - label: Framework Frontend
+      - label: Frontend Frameworks
         details: Angular, Vue 3, TailwindCSS, Bootstrap
       - label: Testing libraries
         details: JUnit, TestNG, Citrus, Jmeter, Mockito, Cucumber, Serenity BDD, Karate, Insomnia, Postman, Newman, SoapUI
@@ -126,85 +141,72 @@ design:
     bottom_margin: 2cm
     left_margin: 2cm
     right_margin: 2cm
-    show_page_numbering: true
-    show_last_updated_date: true
-  text:
+    show_footer: true
+    show_top_note: true
+  typography:
+    alignment: justified
+    bold:
+      section_titles: true
     font_family: Roboto
-    font_size: 10pt
-    leading: 0.6em
+    font_size:
+      body: 10pt
+      section_titles: "1.4em"
     date_and_location_column_alignment: right
+    small_caps:
+      section_titles: false
   links:
     underline: true
-    use_external_link_icon: true
   header:
-    name_font_family: Roboto
-    name_font_size: 30pt
-    name_bold: true
-    photo_width: 3.5cm
-    vertical_space_between_name_and_connections: 0.7cm
-    vertical_space_between_connections_and_first_section: 0.7cm
-    horizontal_space_between_connections: 0.2cm
-    connections_font_family: Roboto
-    use_icons_for_connections: true
     alignment: center
+    space_below_name: "0.7cm"
+    connections:
+      space_between_connections: 0.2cm
+      phone_number_format: international
+      show_icons: true
   section_titles:
-    type: with-full-line
-    font_family: Roboto
-    font_size: 1.4em
-    bold: true
-    small_caps: false
+    type: with_full_line
     line_thickness: 0.5pt
-    vertical_space_above: 0.5cm
-    vertical_space_below: 0.3cm
+    space_above: 0.5cm
+    space_below: 0.3cm
   entries:
-    date_and_location_width: 5.15cm
-    left_and_right_margin: 0.2cm
-    horizontal_space_between_columns: 0.1cm
-    vertical_space_between_entries: 1.2em
-    allow_page_break_in_sections: true
-    allow_page_break_in_entries: true
+    date_and_location_width: 4.15cm
+    summary:
+      space_above: "0cm"
+      space_left: "0cm"
+    space_between_columns: 0.1cm
+    allow_page_break: false
     short_second_row: false
-    show_time_spans_in: []
-  highlights:
-    bullet: "◦"
-    left_margin: 0.4cm
-    horizontal_space_between_bullet_and_highlight: 0.5em
-    summary_left_margin: 0cm
-  entry_types:
+    highlights:
+      bullet: "◦"
+      space_left: 0.4cm
+      space_between_bullet_and_text: 0.5em
+  templates:
     education_entry:
-      main_column_first_row_template: |-
+      main_column: |-
         **AREA**
         *in INSTITUTION*
-      degree_column_width: 1cm
-      main_column_second_row_template: |-
-        SUMMARY
         HIGHLIGHTS
-      date_and_location_column_template: |-
+      date_and_location_column: |-
         *DATE*
         *LOCATION*
     normal_entry:
-      main_column_first_row_template: "**NAME**"
-      main_column_second_row_template: |-
+      main_column: |-
+        **NAME**
         SUMMARY
         HIGHLIGHTS
-      date_and_location_column_template: |-
+      date_and_location_column: |-
         *LOCATION*
         *DATE*
     experience_entry:
-      main_column_first_row_template: |-
+      main_column: |-
         **POSITION**
         *COMPANY*
-      main_column_second_row_template: |-
-        SUMMARY
         HIGHLIGHTS
-      date_and_location_column_template: |-
+      date_and_location_column: |-
         *LOCATION*
         *DATE*
-locale:
-  language: en
-  phone_number_format: international
-  date_template: MONTH_ABBREVIATION YEAR
-rendercv_settings:
+settings:
+  current_date: "2026-02-20"
   render_command:
     pdf_path: Juan_Bermudez_CV.pdf
     dont_generate_html: true
