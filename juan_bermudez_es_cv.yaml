@@ -245,3 +245,4 @@ settings:
     dont_generate_html: true
     dont_generate_markdown: true
     dont_generate_png: true
+    dont_generate_typst: true

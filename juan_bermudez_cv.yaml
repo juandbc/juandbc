@@ -28,7 +28,7 @@ cv:
     experiencie:
       - company: "Freelance"
         location: "Remote"
-        position: "Analista QA"
+        position: "QA Analyst"
         start_date: "2025-07-11"
         highlights:
           - "Develop automated tests with Serenity BDD applying the Screenplay Pattern."
@@ -212,3 +212,4 @@ settings:
     dont_generate_html: true
     dont_generate_markdown: true
     dont_generate_png: true
+    dont_generate_typst: true
