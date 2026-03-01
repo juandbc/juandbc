@@ -14,12 +14,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Set up Python 3.14.3
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v6
         with:
           python-version: "3.14.3"
-          cache: "pip"
+        run: |
+          pip -m install --upgrade pip
+          pip install "rendercv[full]==2.6"
       - name: Render Spanish CV
         run: rendercv render juan_bermudez_es_cv.yaml
       - name: Render English CV
