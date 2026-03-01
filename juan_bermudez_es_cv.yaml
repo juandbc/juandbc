@@ -241,8 +241,8 @@ locale:
 settings:
   current_date: "2026-02-02"
   render_command:
-    pdf_path: Juan_Bermudez_es_CV.pdf
+    pdf_path: juan_bermudez_es_cv.pdf
+    dont_generate_pdf: false
     dont_generate_html: true
     dont_generate_markdown: true
     dont_generate_png: true
-    dont_generate_typst: true

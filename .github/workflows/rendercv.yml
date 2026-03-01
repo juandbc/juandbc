@@ -23,6 +23,12 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install --upgrade "rendercv[full]"
+      - name: Cache Python packages
+        uses: actions/cache@v4
+        with:
+          path: |
+            /opt/hostedtoolcache/Python/*
+            /opt/hostedtoolcache/PyPy/*
       - name: Render Spanish CV
         run: rendercv render juan_bermudez_es_cv.yaml
       - name: Render English CV
