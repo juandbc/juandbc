@@ -1,0 +1,44 @@
+name: RenderCV CI
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install "rendercv[full]"
+      - name: Render Spanish CV
+        run: rendercv render juan_bermudez_es_cv.yaml
+      - name: Render English CV
+        run: rendercv render juan_bermudez_cv.yaml
+      - name: GH Release
+        uses: softprops/action-gh-release@v2.5.0
+        with:
+          files: |
+            juan_bermudez_cv.pdf
+            juan_bermudez_es_cv.pdf
+          tag_name: v${{ github.run_number }}
+          name: Release v${{ github.run_number }}
+          body: |
+            Automated release v${{ github.run_number }}
+
+            Commit: ${{ github.sha }}
+            [View the full commit](https://github.com/${{ github.repository }}/commit/${{ github.sha }})
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
