@@ -20,15 +20,25 @@ jobs:
         with:
           python-version: "3.14.3"
           pip-version: "26.1.2"
-          cache: "pip"
       - name: Install RenderCV
         run: pip install "rendercv[full]==2.8"
+
+      - name: Pip Cache
+        uses: actions/cache@v6
+        id: pip-cache
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/rendercv.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+
       - name: Render Spanish CV
         run: rendercv render juan_bermudez_es_cv.yaml
       - name: Render English CV
         run: rendercv render juan_bermudez_cv.yaml
-      - name: GH Release
-        uses: softprops/action-gh-release@v2.5.0
+      - name: Release
+        uses: softprops/action-gh-release@v3
         with:
           files: |
             juan_bermudez_cv.pdf
@@ -36,7 +46,4 @@ jobs:
           tag_name: v${{ github.run_number }}
           name: Release v${{ github.run_number }}
           body: |
-            Automated release v${{ github.run_number }}
-
-            Commit: ${{ github.sha }}
-            [View the full commit](https://github.com/${{ github.repository }}/commit/${{ github.sha }})
+            Automated release for PDF generated from CV YAML files.
