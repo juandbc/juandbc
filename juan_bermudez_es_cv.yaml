@@ -30,6 +30,7 @@ cv:
         location: "Remoto"
         position: "Analista QA"
         start_date: "2025-07-11"
+        end_date: "2026-06-30"
         highlights:
           - "Desarrollo de pruebas automatizadas con Serenity BDD aplicando el patrón Screenplay"
       - company: "Remoti"
@@ -134,7 +135,7 @@ cv:
       - label: Español
         details: nativo
 design:
-  theme: engineeringclassic
+  theme: harvard
   page:
     size: us-letter
     top_margin: 2cm
@@ -239,7 +240,7 @@ locale:
   years: años
   present: presente
 settings:
-  current_date: "2026-02-02"
+  current_date: "today"
   render_command:
     pdf_path: juan_bermudez_es_cv.pdf
     dont_generate_pdf: false

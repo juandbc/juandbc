@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Flacarr](https://github.com/juandbc/Flacarr)
 
-- 🌱 I’m currently learning **Vue and Quarkus** and always learning more about **Java and Spring boot**
+- 🌱 I’m currently learning **Astro, Vue and Quarkus** and always learning more about **Java and Spring boot**
 
 - 👯 I’m collaborating on [Free for dev](https://github.com/ripienaar/free-for-dev),[MediaManager](https://github.com/maxdorninger/MediaManager/)
 
