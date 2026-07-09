@@ -1,213 +1,148 @@
 cv:
-  name: "Juan David Bermúdez"
-  location: "Colombia"
-  email: "juanbermucele@gmail.com"
+  name: Juan David Bermúdez
+  location: Colombia
+  email: juanbermucele@gmail.com
   phone: "+573127598435"
   social_networks:
     - network: LinkedIn
-      username: "juandbc"
+      username: juandbc
     - network: GitHub
       username: juandbc
   sections:
     summary:
       - "Experienced Java backend developer skilled in building software solutions from scratch. I have mainly worked on projects for financial companies. As a developer, I prioritize user feedback and maintain a strong focus on product quality."
     education:
-      - institution: "National Open and Distance University"
-        # degree: BS
-        area: "Systems Engineering"
-        start_date: "2020-10-04"
+      - institution: National Open and Distance University
+        degree: BS
+        area: Systems Engineering
+        start_date: "2013-01-01"
         end_date: present
         location: Virtual
-      - institution: "Autonomous University of the Caribbean"
-        area: "Systems Engineering"
-        start_date: "2013-01-21"
-        end_date: "2018-06-29"
-        location: Barranquilla
         highlights:
-          - Transfer to Natonal Open and Distance University
+          - Transfer from Autonomous University of the Caribbean (2013-2018)
     experiencie:
-      - company: "Freelance"
-        location: "Remote"
-        position: "QA Analyst"
+      - company: Freelance
+        location: Remote
+        position: Developer
         start_date: "2025-07-11"
         end_date: "2026-06-30"
         highlights:
-          - "Develop automated tests with Serenity BDD applying the Screenplay Pattern."
-      - company: "Remoti"
-        location: "Remote"
-        position: "Desarrollador Backend"
-        start_date: "2025-10-01"
-        end_date: "2025-11-28"
-        highlights:
-          - "I supported the development of microservices using Spring Boot and Java 17."
-          - "I performed maintenance and optimization functions for the services deployed on AWS."
-          - "I migrated a Redis database to Valkey with AWS CloudFormation."
+          - "Developed automated tests with Serenity BDD applying the Screenplay pattern."
+          - "Performed maintenance and optimization of services deployed on AWS."
+          - "Migrated a Redis database to Valkey on AWS using CloudFormation."
       - company: Asodegua (Association of Educators of La Guajira)
-        position: "Software Consultant"
-        location: Ríohacha
+        position: Software Consultant
+        location: Ríohacha, Colombia
         start_date: "2024-12-28"
         end_date: "2025-03-31"
         highlights:
-          - "I led the requirements analysis for the development of an internal management system for the association."
-          - "I designed a monolithic architecture with basic navigation, consisting of 4 web modules with CRUD operations and an additional module for dynamic PDF certificate template editing."
-          - "I implemented the system using the JHipster platform, with Java 21, Spring Boot 3.4, Vue 3 for the frontend, and PostgreSQL as the relational database."
+          - "Designed complete architecture for an internal association member management system composed of 4 CRUD modules and an additional module for dynamic PDF certificate editing."
+          - "Implemented the system using the JHipster SDK, with Java 21, Spring Boot 3.4, Vue 3 for the frontend and PostgreSQL as the relational database."
       - company: SMX Services & Consulting
-        position: "Java consultant"
+        position: Freelance Java consultant
         location: Remote
         start_date: "2022-05-01"
         end_date: "2023-08-31"
-        highlights:
-          - "I collaborated in the development and maintenance of new authentication and authorization microservice features based on OIDC, developed with Java 8 and Spring Boot 2.x."
-          - "I implemented service integration with AWS DynamoDB and exposed functionality through AWS API Gateway."
-          - "I participated in the development of the authentication frontend using Angular."
-          - "I proposed and collaborated in implementing structural improvements to the microservices architecture."
+        highlights:      
+          - "Designed authentication/authorization microservices with OIDC (Java 8 + Spring Boot 2.x), integrated with AWS DynamoDB and API Gateway."
+          - "Developed authentication frontend with Angular for the microservices."
+          - "Proposed and collaborated on the implementation of structural improvements in the microservices architecture."
       - company: Wolox Colombia (Now Accenture Colombia)
-        position: "Software developer"
+        position: Software developer
         location: Remote
         start_date: "2020-10-02"
         end_date: "2023-09-19"
         highlights:
-          - "I collaborated in migrating a banking monolith developed in COBOL to a microservices architecture with REST APIs developed in Java 8 and Spring Boot 2.2, using WebFlux for reactive communication between services and consuming data exposed through Mulesoft middleware. Additionally, I implemented integration with the private traceability platform SEEMaS."
-          - "I served as Technical Lead on the project for approximately 5 months, leading the implementation of new requirements and supporting the definition of strategies for resolving client incidents."
-          - "I participated in the end-to-end development of a payment gateway based on an event-driven architecture (EDA), using Apache Kafka and microservices with Java 17, Spring Boot 3, and its reactive stack (WebFlux)."
-          - "I collaborated in standardizing code style and indentation across projects, as well as training junior team members."
-          - "I contributed to the development of multiple BFFs (Backend for Frontend) containerized with Docker for a banking sector project."
+          - "Supported the migration of a COBOL monolith to 14 microservices (Java 8 + Spring Boot 2.2 + WebFlux), integrating Mulesoft middleware."
+          - "Coordinated a team of 3 developers for 5 months, defining incident resolution strategy for critical banking sector clients."
+          - "Participated in the from-scratch development of a payment gateway based on an Event-Driven Architecture (EDA)."
+          - "Contributed to the development of multiple BFF (Backend for Frontend) containers using Docker for a banking sector project."
       - company: PersonalSoft S.A.S Colombia | Panama
-        position: "Software engineering analyst"
-        location: Medellín
+        position: Software engineering analyst
+        location: Medellín, Colombia
         start_date: "2019-08-31"
         end_date: "2020-09-30"
         highlights:
-          - "I collaborated closely with backend and frontend developers to define service contracts."
-          - "I developed SOAP service integrations in IBM Integration Bus using ESQL and IBM MQ, and additionally implemented REST API integrations in IBM API Connect using JavaScript and YAML specifications."
-          - "I ensured integration quality through unit, integration, end-to-end (E2E), and performance testing."
+          - "Collaborated closely with backend and frontend developers on service contract definition."
+          - "Implemented SOAP services on IBM Integration Bus (ESQL + IBM MQ) and REST APIs on IBM API Connect (JavaScript/YAML)."
+          - "Achieved 85%+ test coverage across integrations with unit, E2E, and performance tests, ensuring stability in production."
       - company: Fintra S.A.
-        position: "Junior developer"
-        location: Barranquilla
+        position: Junior developer
+        location: Barranquilla, Colombia
         start_date: "2018-03-31"
         end_date: "2019-08-31"
         highlights:
-          - "I collaborated in requirements analysis to incorporate new modules and interfaces into the credit management and analysis system."
-          - "I implemented business logic in the backend through PostgreSQL stored procedures, and developed interfaces using MVC and DAO patterns with JDBC."
-          - "I promoted and carried out the system upgrade from Java 6 to Java 8, improving compatibility and overall performance."
-          - "I implemented an on-premise GitLab server for version control, replacing the previous SVN-based solution."
-          - "I collaborated in developing the company's first REST API for its website, using Java and JAX-RS."
+          - "Developed business logic with stored procedures in PostgreSQL and MVC/DAO patterns with JDBC."
+          - "Executed the upgrade from Java 6 to Java 8, improving compatibility and overall performance."
+          - "Implemented on-premise GitLab replacing SVN, enabling modern CI/CD workflows."
+          - "Developed the company's first REST API for their website, using Java and JAX-RS."
       - company: Redsis - Redes y Sistemas Integrados S.A.S
-        position: "Trainee"
-        location: Barranquilla
+        position: Trainee
+        location: Barranquilla, Colombia
         start_date: "2017-04-30"
         end_date: "2017-10-31"
         highlights:
-          - "I performed requirements analysis for a web-based project and inventory management system during my professional internship."
-          - "I designed the overall system architecture, including the database model optimized for SQL Server."
-          - "I developed the backend in Java 8 and the frontend using HTML, CSS, and JavaScript with jQuery, without additional frameworks or server-side rendering."
-          - "I deployed the application on an Apache Tomcat server, ensuring proper configuration and stable operation."
+          - "Developed a monolithic web system from scratch for project and inventory management, using the MVC pattern with technologies: Java 8, HTML, CSS and JavaScript/jQuery."
+          - "Deployed the application on an Apache Tomcat server, ensuring proper configuration and functionality."
     Skills:
-      - label: Methodologies & Architectures
-        details: Scrum, Ágil, TDD, BDD, DDD, Microservices, SOA, EDA
-      - label: Languages
-        details: Java (8-21), SQL, TypeScript, JavaScript, XML, HTML, CSS
-      - label: Backend Frameworks
-        details: Spring Boot, Spring WebFlux, Spring Data, Spring Security, Spring Cloud(Bus, Stream, Circuit Breaker, Sleuth, Function, OpenFeign), Micrometer Tracing, Spring REST Docs, Java EE, JAX-RS, JAX-WS, Jhipster
-      - label: Frontend Frameworks
-        details: Angular, Vue 3, TailwindCSS, Bootstrap
-      - label: Testing libraries
-        details: JUnit, TestNG, Citrus, Jmeter, Mockito, Cucumber, Serenity BDD, Karate, Insomnia, Postman, Newman, SoapUI
-      - label: Software and tools
-        details: Linux, Kubernetes, Docker, GraalVM, IBM Integration Bus 10, IBM MQ 9, API Connect, Artifactory, Apache Kafka, RabbitMQ
-      - label: Servers
-        details: Tomcat, Undertow, Wildfly, TomcatEE, Jetty
+      - label: Architectures & methodologies
+        details: Scrum, Ágil, TDD, BDD, DDD, Microservicios, SOA, EDA, Hexagonal
+      - label: Messaging & Queues
+        details: IBM Integration Bus 10, IBM MQ 9, API Connect, Artifactory, Apache Kafka, RabbitMQ
       - label: Databases
-        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, CosmosDB
-      - label: Platforms
-        details: Heroku, Digital Ocean, Azure, AWS
-      - label: Cloud services
-        details: App Services, Azure Functions, Azure Service Bus, AKS, AWS API Gateway, AWS S3
-      - label: DevOps
-        details: Azure DevOps, Jenkins, GitLab, GitHub
-      - label: Observability
-        details: New Relic
-      - label: Code quality
-        details: Qodana, SonarQube, Kiuwan
-    Lenguajes:
+        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, CosmosDB, Redis, Valkey
+      - label: Cloud/DevOps
+        details: Heroku, Digital Ocean, Azure, AWS (CloudFormation, Lambda, S3, API Gateway), Kubernetes, Docker, Jenkins, GitLab, GitHub
+      - label: Languages
+        details: Java (8-25), Python (Basic), SQL, TypeScript, JavaScript, XML, HTML, CSS
+      - label: Backend
+        details: Quarkus, Spring Boot, Spring Cloud, Java EE, JAX-RS/JAX-WS, Jhipster
+      - label: Frontend
+        details: Astro, Svelte, Vue 3, TailwindCSS, Bootstrap
+      - label: Testing & QA
+        details: JUnit 6, Mockito, Jmeter, Cucumber, Serenity BDD, Karate, Selenium, Playwright, Postman, Qodana, SonarQube, Kiuwan
+    Languages:
       - label: English
         details: "[Reading and listening C1](https://cert.efset.org/iyD2C7), writing and speaking B1"
-      - label: Español
+      - label: Spanish
         details: native
 design:
   theme: harvard
   page:
     size: us-letter
-    top_margin: 2cm
-    bottom_margin: 2cm
-    left_margin: 2cm
-    right_margin: 2cm
     show_footer: true
     show_top_note: true
   typography:
     alignment: justified
     bold:
       section_titles: true
-    font_family: Roboto
     font_size:
-      body: 10pt
+      # body: 10pt
       section_titles: "1.4em"
-    date_and_location_column_alignment: right
-    small_caps:
-      section_titles: false
+    # date_and_location_column_alignment: right
   links:
     underline: true
   header:
-    alignment: center
-    space_below_name: "0.7cm"
     connections:
-      space_between_connections: 0.2cm
+      # space_between_connections: 0.2cm
       phone_number_format: international
       show_icons: true
   section_titles:
-    type: with_full_line
-    line_thickness: 0.5pt
-    space_above: 0.5cm
-    space_below: 0.3cm
+  #   type: with_full_line
+    line_thickness: 0.4pt
+  #   space_above: 0.5cm
+  #   space_below: 0.3cm
   entries:
-    date_and_location_width: 4.15cm
-    summary:
-      space_above: "0cm"
-      space_left: "0cm"
-    space_between_columns: 0.1cm
+    # date_and_location_width: 4.15cm
+    # space_between_columns: 0.1cm
     allow_page_break: false
-    short_second_row: false
-    highlights:
-      bullet: "◦"
-      space_left: 0.4cm
-      space_between_bullet_and_text: 0.5em
-  templates:
-    education_entry:
-      main_column: |-
-        **AREA**
-        *in INSTITUTION*
-        HIGHLIGHTS
-      date_and_location_column: |-
-        *DATE*
-        *LOCATION*
-    normal_entry:
-      main_column: |-
-        **NAME**
-        SUMMARY
-        HIGHLIGHTS
-      date_and_location_column: |-
-        *LOCATION*
-        *DATE*
-    experience_entry:
-      main_column: |-
-        **POSITION**
-        *COMPANY*
-        HIGHLIGHTS
-      date_and_location_column: |-
-        *LOCATION*
-        *DATE*
+    short_second_row: true
+    # highlights:
+      # bullet: "◦"
+      # space_left: 0.4cm
+      # space_between_bullet_and_text: 0.5em
 settings:
-  current_date: "today"
+  current_date: today
   render_command:
     pdf_path: juan_bermudez_cv.pdf
     dont_generate_html: true
