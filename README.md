@@ -44,7 +44,7 @@
 <table>
     <tr>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="30" height="30"/></span></td>
-        <td><span><img src="https://github.com/valkey-io/valkey-io.github.io/blob/main/static/img/Valkey-logo.svg" alt="valkey" width="30" height="30"/></span></td>
+        <td><span><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/valkey.svg" alt="valkey" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="30" height="30"/></span></td>
         <td><span><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ferretdb.svg" alt="ferretdb" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="30" height="30"/></span></td>
@@ -87,9 +87,7 @@
 </tr>
 </table>
 
-<!--<p>
-     <img style="display:inline;" src="https://wakatime.com/share/@juandbc/bd7d6468-9e4b-48c9-8761-c8762afd78dc.svg" alt="Wakatime" width="350" height="350" /> 
-</p>-->
+![Wakatime](https://wakatime.com/share/@juandbc/50a6000e-345e-483e-89da-21d2caf4c8d5.png)
 
-[![roadmap.sh](https://roadmap.sh/card/wide/68939c70614598977ebd6ec7?variant=dark&roadmaps=backend%2Cjava%2Cspring-boot%2Cdatastructures-and-algorithms)](https://roadmap.sh)
-[![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev)
+<!-- [![roadmap.sh](https://roadmap.sh/card/wide/68939c70614598977ebd6ec7?variant=dark&roadmaps=backend%2Cjava%2Cspring-boot%2Cdatastructures-and-algorithms)](https://roadmap.sh)
+[![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev) -->
