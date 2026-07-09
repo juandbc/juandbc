@@ -3,8 +3,12 @@ name: RenderCV CI
 on:
   push:
     branches: ["main"]
+    paths:
+      - "*cv.yaml"
   pull_request:
     branches: ["main"]
+    paths:
+      - "*cv.yaml"
 
 permissions:
   contents: write
