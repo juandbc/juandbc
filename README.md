@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Juan David Bermudez</h1>
 <h2 align="center">A Java backend developer from Colombia</h2>
 
-- 🔭 I’m currently working on [Flacarr](https://github.com/juandbc/Flacarr)
+- 🔭 I’m currently working on some P2P projects
 
-- 🌱 I’m currently learning **Astro, Vue and Quarkus** and always learning more about **Java and Spring boot**
+- 🌱 I’m currently learning **Astro, Svelte and Quarkus** and always learning more about **Java and Spring boot**
 
 - 👯 I’m collaborating on [Free for dev](https://github.com/ripienaar/free-for-dev),[MediaManager](https://github.com/maxdorninger/MediaManager/)
 
@@ -35,6 +35,7 @@
     <td><span><img src="https://avatars.githubusercontent.com/u/9455201?s=200&v=4" alt="Serenity" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="30" height="30"/></span></td>
+    <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vuejs" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/></span></td>
