@@ -21,9 +21,9 @@ cv:
         highlights:
           - Transferencia desde la Universidad Autónoma del Caribe (2013-2018)
     experiencia:
-      - company: Freelance
+      - company: Freelancer
         location: Remoto
-        position: Desarrollador
+        position: Desarrollador Backend & QA
         start_date: "2025-07-11"
         end_date: "2026-06-30"
         highlights:
@@ -85,14 +85,6 @@ cv:
           - "Desarrollé desde cero un sistema web monolito para gestión de proyectos e inventario, usando el patrón MVC con tecnologías: Java 8, HTML, CSS y JavaScript/jQuery."
           - "Desplegué la aplicación en un servidor Apache Tomcat, asegurando su correcta configuración y funcionamiento."
     Conocimientos:
-      - label: Metodologías y arquitecturas
-        details: Scrum, Ágil, TDD, BDD, DDD, Microservicios, SOA, EDA, Hexagonal
-      - label: Mensajería y colas
-        details: IBM Integration Bus 10, IBM MQ 9, API Connect, Artifactory, Apache Kafka, RabbitMQ
-      - label: Bases de datos
-        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, CosmosDB, Redis, Valkey
-      - label: Nube/DevOps
-        details: Heroku, Digital Ocean, Azure, AWS (CloudFormation, Lambda, S3, API Gateway), Kubernetes, Docker, Jenkins, GitLab, GitHub
       - label: Lenguajes
         details: Java (8-25), Python (Básico), SQL, TypeScript, JavaScript, XML, HTML, CSS
       - label: Backend
@@ -101,7 +93,17 @@ cv:
         details: Astro, Svelte, Vue 3, TailwindCSS, Bootstrap
       - label: Pruebas y calidad de software
         details: JUnit 6, Mockito, Jmeter, Cucumber, Serenity BDD, Karate, Selenium, Playwright, Postman, Qodana, SonarQube, Kiuwan
-    Lenguajes:
+      - label: Metodologías y arquitecturas
+        details: Scrum, Ágil, TDD, BDD, DDD, Microservicios, SOA, EDA, Hexagonal
+      - label: Mensajería y colas
+        details: IBM Integration Bus 10, IBM MQ 9, API Connect, Artifactory, Apache Kafka, RabbitMQ
+      - label: Bases de datos
+        details: Postgresql, MySQL, Oracle, SQL Server, MongoDB, DynamoDB, CosmosDB, Redis, Valkey
+      - label: Nube/DevOps
+        details: Heroku, Digital Ocean, Azure, AWS (CloudFormation, Lambda, S3, API Gateway), Kubernetes, Docker, Jenkins, GitLab, GitHub
+      - label: Agentes IA
+        details: Gemini CLI, GitHub Copilot, OpenCode, KiloCode, Zed Agent, Warp Agent, Hermes Agent, Aider, Ollama, LM Studio
+    Idiomas:
       - label: Inglés
         details: "[Lectura y escucha C1](https://cert.efset.org/iyD2C7), escritura y habla B1"
       - label: Español

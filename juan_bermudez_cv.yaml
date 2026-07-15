@@ -21,9 +21,9 @@ cv:
         highlights:
           - Transfer from Autonomous University of the Caribbean (2013-2018)
     experiencie:
-      - company: Freelance
+      - company: Freelancer
         location: Remote
-        position: Developer
+        position: QA & Backend developer
         start_date: "2025-07-11"
         end_date: "2026-06-30"
         highlights:
@@ -101,6 +101,8 @@ cv:
         details: Astro, Svelte, Vue 3, TailwindCSS, Bootstrap
       - label: Testing & QA
         details: JUnit 6, Mockito, Jmeter, Cucumber, Serenity BDD, Karate, Selenium, Playwright, Postman, Qodana, SonarQube, Kiuwan
+      - label: Agentic development
+        details: Gemini CLI, GitHub Copilot, OpenCode, KiloCode, Zed Agent, Warp Agent, Hermes Agent, Aider, Ollama, LM Studio
     Languages:
       - label: English
         details: "[Reading and listening C1](https://cert.efset.org/iyD2C7), writing and speaking B1"
