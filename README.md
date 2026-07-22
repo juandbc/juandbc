@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan David Bermudez</h1>
-<h2 align="center">A Java backend developer from Colombia</h2>
+<h2 align="center">A QA/Backend developer from Colombia</h2>
 
-- 🔭 I’m currently working on some P2P projects
+- 🔭 I’m currently working on some personal projects
 
 - 🌱 I’m currently learning **Astro, Svelte and Quarkus** and always learning more about **Java and Spring boot**
 

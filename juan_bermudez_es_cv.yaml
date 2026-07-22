@@ -10,7 +10,12 @@ cv:
       username: juandbc
   sections:
     resumen:
-      - "Desarrollador Java backend con experiencia en la creación de soluciones de software desde cero. He trabajado principalmente en proyectos para empresas financieras. Como desarrollador, doy prioridad a la retroalimentación del usuario y mantengo un fuerte enfoque en la calidad del producto."
+      - >
+        Desarrollador backend Java e ingeniero de automatización QA con amplia experiencia entregando soluciones de extremo a extremo
+        para empresas del sector financiero. Lidero los esfuerzos de desarrollo backend desde el concepto hasta la producción,
+        integrando la calidad mediante estrategias de pruebas automatizadas para APIs y UIs. Mi conjunto técnico incluye frameworks
+        backend en Java, Karate, Serenity BDD (Screenplay), Selenium, Playwright, Postman y REST-assured.
+        Me enfoco en obtener feedback de usuario accionable, en diseñar pruebas mantenibles y en lograr mejoras medibles en la calidad del producto
     educación:
       - institution: Universidad Nacional Abierta y a Distancia
         degree: BS
@@ -55,7 +60,7 @@ cv:
         highlights:
           - "Apoyé en la migración de un monolito COBOL a 14 microservicios (Java 8 + Spring Boot 2.2 + WebFlux), integrando middleware Mulesoft."
           - "Coordiné equipo de 3 desarrolladores durante 5 meses, definiendo estrategia de resolución de incidencias para clientes críticos del sector bancario."
-          - "Participé en el desarrollo desde cero de una pasarela de pagos basada en una arquitectura orientada a eventos (EDA)."          
+          - "Participé en el desarrollo desde cero de una pasarela de pagos basada en una arquitectura orientada a eventos (EDA)."
           - "Contribuí al desarrollo de múltiples BFF (Backend for Frontend) contenerizados con Docker para un proyecto del sector bancario."
       - company: PersonalSoft S.A.S Colombia
         location: Medellín, Colombia

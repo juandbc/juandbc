@@ -10,7 +10,11 @@ cv:
       username: juandbc
   sections:
     summary:
-      - "Experienced Java backend developer skilled in building software solutions from scratch. I have mainly worked on projects for financial companies. As a developer, I prioritize user feedback and maintain a strong focus on product quality."
+      - >
+        Java backend developer and QA automation engineer with extensive experience delivering end-to-end solutions for financial companies.
+        I lead backend development efforts from concept to production while embedding quality through automated testing strategies for APIs and UIs.
+        Technical toolkit includes Java backend frameworks, Karate, Serenity BDD (Screenplay), Selenium, Playwright, Postman, and REST-assured.
+        I focus on actionable user feedback, maintainable test design, and measurable product quality improvements.
     education:
       - institution: National Open and Distance University
         degree: BS
@@ -43,7 +47,7 @@ cv:
         location: Remote
         start_date: "2022-05-01"
         end_date: "2023-08-31"
-        highlights:      
+        highlights:
           - "Designed authentication/authorization microservices with OIDC (Java 8 + Spring Boot 2.x), integrated with AWS DynamoDB and API Gateway."
           - "Developed authentication frontend with Angular for the microservices."
           - "Proposed and collaborated on the implementation of structural improvements in the microservices architecture."
