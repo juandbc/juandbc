@@ -27,16 +27,19 @@
 <table>
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring" width="30" height="30"/></span></td>
+    <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/quarkus/quarkus-original.svg" alt="Quarkus" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/liquibase/liquibase-original.svg" alt="Liquibase" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/karatelabs/karatelabs-original.svg" alt="Karatelabs" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="Openapi" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="Junit" width="30" height="30"/></span></td>
     <td><span><img src="https://avatars.githubusercontent.com/u/9455201?s=200&v=4" alt="Serenity" width="30" height="30"/></span></td>
+<td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="Playwright" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="Angular" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" alt="Svelte" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vuejs" width="30" height="30"/></span></td>
+    <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="Astro" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/></span></td>
 </tr>
@@ -48,17 +51,22 @@
         <td><span><img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/valkey.svg" alt="valkey" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="Mongodb" width="30" height="30"/></span></td>
         <td><span><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ferretdb.svg" alt="ferretdb" width="30" height="30"/></span></td>
+        <td><span><img src="https://devicons.io/devicons/icons/etcd.svg" alt="ferretdb" width="30" height="30"/></span></td>        
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="Mysql" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="30" height="30"/></span></td>
         <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Postgresql" width="30" height="30"/></span></td>
+        <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="30" height="30"/></span></td>
+        <td><span><img src="https://raw.githubusercontent.com/rqlite/rqlite.io/refs/heads/master/assets/icons/logo.svg" alt="RQLite" width="30" height="30"/></span></td>
     </tr>
 </table>
 <h3 align="left">Tools:</h3>
 <table>
 <tr>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="Intellij" width="30" height="30"/></span></td>
-    <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Vscode" width="30" height="30"/></span></td>
+    <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscodium/vscodium-original.svg" alt="Vscodium" width="30" height="30"/></span></td>
+    <td><span><img src="https://raw.githubusercontent.com/zed-industries/zed/refs/heads/main/assets/images/zed_logo.svg" alt="zed" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="Sonarqube" width="30" height="30"/></span></td>
+    <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qodana/qodana-original.svg" alt="Qodana" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="30" height="30"/></span></td>
     <td><span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="Gradle" width="30" height="30"/></span></td>
@@ -88,7 +96,7 @@
 </tr>
 </table>
 
-![Wakatime](https://wakatime.com/share/@juandbc/50a6000e-345e-483e-89da-21d2caf4c8d5.png)
+![Wakatime](https://wakatime.com/share/@juandbc/00951e4b-428c-49b2-a1ae-6a2f000211a9.svg)
 
 <!-- [![roadmap.sh](https://roadmap.sh/card/wide/68939c70614598977ebd6ec7?variant=dark&roadmaps=backend%2Cjava%2Cspring-boot%2Cdatastructures-and-algorithms)](https://roadmap.sh)
 [![Codewars](https://github.r2v.ch/codewars?user=juandev&theme=light&name=true&top_languages=true")](https://www.codewars.com/users/juandev) -->
